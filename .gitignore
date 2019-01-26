@@ -1,0 +1,9 @@
+**/Debug/
+
+**/*.xml
+
+**/*.cproj
+
+**/*.cppproj
+
+**/*.rar
